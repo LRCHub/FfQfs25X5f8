@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ニワカ雨ニモ負ケズ",
+  "base_artist": "NICO Touches the Walls",
+  "createdAt": "2025-12-12T18:33:16.223728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ (Acoustic)",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/01_ニワカ雨ニモ負ケズ_(Acoustic)_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/02_ニワカ雨ニモ負ケズ_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/03_ニワカ雨ニモ負ケズ_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ - Niwaka Ame Nimo Makezu",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/04_ニワカ雨ニモ負ケズ_-_Niwaka_Ame_Nimo_Makezu_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/05_ニワカ雨ニモ負ケズ_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ (Album Mix)",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/06_ニワカ雨ニモ負ケズ_(Album_Mix)_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ (Album Mix)",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/07_ニワカ雨ニモ負ケズ_(Album_Mix)_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ (Not Even Sudden Rain Can Defeat Me)",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/08_ニワカ雨ニモ負ケズ_(Not_Even_Sudden_Rain_Can_Defeat_Me)_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches the Walls (ニコ・タッチズ・ザ・ウォールズ)",
+      "has_synced": true,
+      "path": "select/09_ニワカ雨ニモ負ケズ_NICO_Touches_the_Walls_(ニコ・タッチズ・ザ・ウォールズ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/10_ニワカ雨ニモ負ケズ_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/11_ニワカ雨ニモ負ケズ_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches Walls",
+      "has_synced": true,
+      "path": "select/12_ニワカ雨ニモ負ケズ_NICO_Touches_Walls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ニワカ雨ニモ負ケズ (Album Mix) - Niwakaamenimomakezu (Album Mix)",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/13_ニワカ雨ニモ負ケズ_(Album_Mix)_-_Niwakaamenimomakezu_(Album_Mix)_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニワカ雨ニモ負ケズ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/pl_01_ニワカ雨ニモ負ケズ_NICO_Touches_the_Walls.txt"
+    }
+  ]
+}
